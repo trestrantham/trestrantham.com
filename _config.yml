@@ -1,0 +1,5 @@
+permalink: articles/:title
+exclude: ['README.markdown', '_design']
+markdown: rdiscount
+regeneration: true
+title: 'Tres Trantham &mdash; Problem Solver'

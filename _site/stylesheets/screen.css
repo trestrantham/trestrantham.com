@@ -1,0 +1,75 @@
+/* e2e2e2 d7dddf e0dfdb dbe0db */
+/* 018BF2 f27e01 */
+* {
+  margin: 0;
+  padding: 0; }
+
+html {
+  height: 100%;
+  margin-bottom: 1px; }
+
+body {
+  border-top: 0.25em solid #38547a;
+  color: #222222;
+  background: #e2e2e2 url(/images/bg.png);
+  font-size: 1.2em;
+  font-family: georgia,'lucida grande',verdana,sans-serif;
+  text-shadow: #fff 0px 1px; }
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana sans-serif; }
+
+h3 {
+  font-size: 1em;
+  color: #38547a;
+  margin-bottom: 20px; }
+
+h4, h5 {
+  font-size: 1em;
+  margin-bottom: 20px; }
+  h4 span, h5 span {
+    display: block;
+    color: #545454;
+    font-weight: normal; }
+
+ul, ol {
+  margin-left: 20px;
+  margin-bottom: 20px; }
+
+em {
+  text-decoration: italic; }
+
+strong {
+  font-weight: bold; }
+
+section {
+  display: block;
+  width: 640px;
+  margin: 0 auto;
+  padding: 50px 0;
+  line-height: 1.5;
+  min-height: 400px; }
+  section h2 {
+    font-size: 30px;
+    margin-bottom: 30px; }
+  section p {
+    margin-bottom: 20px; }
+  section a {
+    text-decoration: none;
+    color: #38547a;
+    border-bottom: 1px solid #222222; }
+  section a:hover {
+    color: #222222; }
+  section hr {
+    height: 1px;
+    width: 50%;
+    margin: 50px auto 0;
+    border: 0;
+    color: #bfbfbf;
+    background-color: #bfbfbf;
+    border-bottom: 1px solid #f6f6f6; }
+
+.employer {
+  margin: 0;
+  padding: 0 0 0 20px;
+  border-left: 1px solid #bfbfbf; }
