@@ -11,7 +11,7 @@ html {
 body {
   border-top: 0.25em solid #38547a;
   color: #222222;
-  background: #e2e2e2 url(/images/bg.png);
+  background-color: #e2e2e2;
   font-size: 1.2em;
   font-family: georgia,'lucida grande',verdana,sans-serif;
   text-shadow: #fff 0px 1px; }

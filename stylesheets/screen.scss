@@ -21,7 +21,7 @@ html {
 body { 
 	border-top:0.25em solid $accent; 
 	color:$text; 
-	background:$bg url(/images/bg.png); 
+	background-color:$bg; 
 	font-size:1.2em;
 	@include font-family-serif; 
 	text-shadow:#fff 0px 1px;
