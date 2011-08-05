@@ -19,6 +19,12 @@ body {
 h1, h2, h3, h4, h5 {
   font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana sans-serif; }
 
+h2 {
+  text-align: right; }
+
+h2.hello {
+  text-align: left; }
+
 h3 {
   font-size: 1em;
   color: #38547a;
@@ -43,9 +49,9 @@ strong {
   font-weight: bold; }
 
 section {
-  display: block;
   width: 640px;
   margin: 0 auto;
+  display: block;
   padding: 50px 0;
   line-height: 1.5;
   min-height: 400px; }
@@ -69,7 +75,17 @@ section {
     background-color: #bfbfbf;
     border-bottom: 1px solid #f6f6f6; }
 
-.employer {
+.client {
   margin: 0;
   padding: 0 0 0 20px;
   border-left: 1px solid #bfbfbf; }
+
+.back {
+  float: left;
+  text-decoration: none;
+  color: #545454;
+  border: none;
+  margin-top: 0.75em; }
+
+.back:hover {
+  color: #38547a; }
