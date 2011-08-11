@@ -13,11 +13,11 @@ body {
   color: #222222;
   background-color: #e2e2e2;
   font-size: 1.2em;
-  font-family: georgia,'lucida grande',verdana,sans-serif;
+  font-family: Georgia,Utopia,Palatino,'Palatino Linotype',serif;
   text-shadow: #fff 0px 1px; }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana sans-serif; }
+  font-family: 'Lucida Sans','Lucida Grande','Lucida Sans Unicode',Verdana,Geneva,sans-serif; }
 
 h2 {
   text-align: right; }
@@ -61,11 +61,10 @@ section {
   section p {
     margin-bottom: 20px; }
   section a {
-    text-decoration: none;
-    color: #38547a;
-    border-bottom: 1px solid #222222; }
+    color: #38547a; }
   section a:hover {
-    color: #222222; }
+    color: #222222;
+    text-decoration: underline; }
   section hr {
     height: 1px;
     width: 50%;
@@ -85,7 +84,8 @@ section {
   text-decoration: none;
   color: #545454;
   border: none;
-  margin-top: 0.75em; }
+  margin-top: 0.65em; }
 
 .back:hover {
-  color: #38547a; }
+  color: #38547a;
+  text-decoration: none; }

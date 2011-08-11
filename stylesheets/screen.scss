@@ -5,8 +5,8 @@ $text:#222;
 $bg:#e2e2e2; /* e2e2e2 d7dddf e0dfdb dbe0db */
 $accent:#38547a; /* 018BF2 f27e01 */
 
-@mixin font-family-serif { font-family:georgia,'lucida grande',verdana,sans-serif; }
-@mixin font-family-sans { font-family:'Lucida Sans', 'Lucida Grande', 'Lucida Sans Unicode', Verdana sans-serif; }
+@mixin font-family-serif { font-family:Georgia,Utopia,Palatino,'Palatino Linotype',serif; }
+@mixin font-family-sans { font-family:'Lucida Sans','Lucida Grande','Lucida Sans Unicode',Verdana,Geneva,sans-serif; }
 
 * { 
 	margin:0; 
@@ -73,13 +73,12 @@ section {
 	
 	p { margin-bottom:20px; }
 	
-	a { 
-		text-decoration:none;
-		color:$accent; 
-		border-bottom:1px solid $text;
-	}
+	a { color:$accent; }
 	
-	a:hover { color:$text; }
+	a:hover { 
+		color:$text; 
+		text-decoration:underline;
+	}
 
 	hr { 
 		height:1px; 
@@ -103,7 +102,10 @@ section {
 	text-decoration:none;
 	color:$text + 50;
 	border:none;
-	margin-top:0.75em;
+	margin-top:0.65em;
 }
 
-.back:hover { color:$accent; }
+.back:hover {
+	color:$accent;
+	text-decoration:none;
+}
