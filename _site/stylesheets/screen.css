@@ -14,8 +14,7 @@ body {
   background-color: #e2e2e2;
   font-size: 1.2em;
   font-family: Georgia,Utopia,Palatino,'Palatino Linotype',serif;
-  text-shadow: #fff 0px 1px;
-  font-weight: 400; }
+  text-shadow: #fff 0px 1px; }
 
 h1, h2, h3, h4, h5 {
   font-family: 'Lucida Sans','Lucida Grande','Lucida Sans Unicode',Verdana,Geneva,sans-serif; }
@@ -67,12 +66,13 @@ section {
     color: #222222;
     text-decoration: underline; }
   section hr {
-    height: 1px;
+    height: 0px;
     width: 50%;
     margin: 50px auto 0;
     border: 0;
     color: #bfbfbf;
     background-color: #bfbfbf;
+    border-top: 1px solid #bfbfbf;
     border-bottom: 1px solid #f6f6f6; }
 
 .client {
