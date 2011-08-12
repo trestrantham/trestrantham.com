@@ -10,7 +10,7 @@ html {
 
 body {
   border-top: 0.25em solid #38547a;
-  color: #222222;
+  color: #111111;
   background-color: #e2e2e2;
   font-size: 1.2em;
   font-family: Georgia,Utopia,Palatino,'Palatino Linotype',serif;
@@ -35,7 +35,7 @@ h4, h5 {
   margin-bottom: 20px; }
   h4 span, h5 span {
     display: block;
-    color: #545454;
+    color: #434343;
     font-weight: normal; }
 
 ul, ol {
@@ -63,7 +63,7 @@ section {
   section a {
     color: #38547a; }
   section a:hover {
-    color: #222222;
+    color: #111111;
     text-decoration: underline; }
   section hr {
     height: 0px;
@@ -83,7 +83,7 @@ section {
 .back {
   float: left;
   text-decoration: none;
-  color: #545454;
+  color: #434343;
   border: none;
   margin-top: 0.65em; }
 

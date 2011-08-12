@@ -10,7 +10,7 @@ I live in Florida with my amazing wife, Erin, and beautiful daughter, Penelope. 
 cats and miniature schnauzer, [Oliver](http://www.flickr.com/photos/trestrantham/4456535978 "Oliver").
 
 I currently work in the banking and insurance realms as a technical consultant. I wear many hats ranging from 
-ETL developer to Systems Analyst to SQL Guru. Check out my [resume](/resume) if you would like to know the nitty gritty.
+ETL developer to Systems Analyst to SQL Guru. Check out my [resume](/resume) if you would like to know more.
 
 My spare time is spent building web applications, enjoying good craft beer and other musings of general 
 nerdery. I'm a strong advocate for usability and standards both on and off the web. I like simplicity in life 
