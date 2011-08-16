@@ -6,7 +6,7 @@ layout: default
 
 My name is Tres Trantham. I'm a software developer, husband, father and all around technology geek.
 
-I live in Florida with my amazing wife, Erin, and beautiful daughter, Penelope. We are accompanied by our two 
+I live in Florida with my amazing wife, Erin, and beautiful daughter, [Penelope](http://www.flickr.com/photos/trestrantham/6049521632 "Penelope"). We are accompanied by our two 
 cats and miniature schnauzer, [Oliver](http://www.flickr.com/photos/trestrantham/4456535978 "Oliver").
 
 I currently work in the banking and insurance realms as a technical consultant. I wear many hats ranging from 
