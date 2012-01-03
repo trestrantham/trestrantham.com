@@ -37,7 +37,11 @@ problems. He is an energetic self-starter with an exceptional focus on detail an
 #### Senior Systems Analyst, Tri-Analytics, LLC <span>April 2010 &mdash; Present</span> ####
 
 <div class="client">
-<h5>Wachovia Bank/Wells Fargo - Customer Selection Facility<span>April 2010 &mdash; Present</span></h5>
+<h5>Blue Cross Blue Shield of Florida<span>September 2011 &mdash; Present</span></h5>
+</div>
+
+<div class="client">
+<h5>Wachovia Bank/Wells Fargo - Customer Selection Facility<span>April 2010 &mdash; September 2011</span></h5>
 <p>The Customer Selection Facility (CSF) Project consists of conversion related activities for customer account records from the Wachovia Legacy Platform to the Wells Fargo Platform for certain product types based on specific business rules, which were provided by various stakeholders from the Wachovia/Wells Fargo line of business' partners.</p>
 <p>Key responsibilities include:</p>
 <ul>
