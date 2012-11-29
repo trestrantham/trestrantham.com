@@ -10,7 +10,7 @@ title: Resume
 
 ### Overview ###
 
-Tres has over 6 years of Information Technology experience in multiple system development environments including mobile, 
+Tres has over 7 years of Information Technology experience in multiple system development environments including mobile, 
 web and ETL platforms. He has a talent for analyzing complex problems, developing and simplifying procedures and finding 
 innovative solutions. Tres is especially skilled at learning new technologies and quickly applying them to real-world 
 problems. He is an energetic self-starter with an exceptional focus on detail and organization.
