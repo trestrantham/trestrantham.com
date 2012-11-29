@@ -34,7 +34,7 @@ problems. He is an energetic self-starter with an exceptional focus on detail an
 
 ### Professional Experience ###
 
-#### Senior Systems Analyst, Tri-Analytics, LLC <span>April 2010 &mdash; Present</span> ####
+#### Systems Architect, Tri-Analytics, LLC <span>April 2010 &mdash; Present</span> ####
 
 <div class="client">
 <h5>Blue Cross Blue Shield of Florida<span>September 2011 &mdash; Present</span></h5>
