@@ -32,6 +32,7 @@ GEM
       jekyll (>= 0.12.0, < 2.0)
       rack (~> 1.5.0)
     raindrops (0.12.0)
+    rdiscount (2.1.6)
     redcarpet (2.3.0)
     safe_yaml (0.7.1)
     syntax (1.0.0)
@@ -47,4 +48,5 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   rack-jekyll
+  rdiscount
   unicorn
