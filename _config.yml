@@ -1,5 +1,12 @@
 permalink: articles/:title
-exclude: ['README.markdown', '_design']
+exclude:
+ - README.markdown
+ - unicorn.rb
+ - Profile
+ - Gemfile
+ - Gemfile.lock
+ - config.ru
+ - vendor
 markdown: rdiscount
 regeneration: true
 title: 'Tres Trantham &mdash; Problem Solver'
