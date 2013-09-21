@@ -21,7 +21,7 @@ module Jekyll
 
     def convert(content)
       setup
-			puts "Performing HAML Conversion."
+      puts "Performing HAML Conversion."
       engine = Haml::Engine.new(content)
       engine.render
     end
