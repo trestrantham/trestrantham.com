@@ -19,7 +19,8 @@ craft beer, and other musings of general nerdery. I'm a strong advocate for
 usability and standards both on and off the web. I like simplicity in life and
 design. And I've crashed in a Piper Navaho twin-engine aircraft.
 
-I can also be found on [Twitter](http://twitter.com/trestrantham "Twitter") and
+I can also be found on [GitHub](http://github.com/trestrantham),
+[Twitter](http://twitter.com/trestrantham "Twitter"), and
 [Facebook](http://facebook.com/trestrantham "Facebook"). If you want to contact
 me directly for any reason, please feel free to email
 [me@trestrantham.com](mailto:me@trestrantham.com).

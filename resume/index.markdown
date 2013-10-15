@@ -19,10 +19,14 @@ energetic self-starter with an exceptional focus on detail and organization.
 
 ### Functional Skills ###
 
-- Skilled at facilitating business and functional requirement gathering and
-  translating those requirements to concise, logical process flows
-- Proficient in architecture design, implementation and optimization in both
+- Skilled at facilitating business and functional requirement gathering
+  sessions and translating new information into concise, logical process flows
+- Leads business, analytical, and technical teams with a focus on efficiency
+  and accountability
+- Proficient in architecture design, implementation, and optimization in both
   application development and ETL environments
+- Collaborates and communicates efficiently with diverse personnel groups from
+  chief officers to junior resources
 
 ### Technical Skills ###
 
